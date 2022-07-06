@@ -1,0 +1,41 @@
+body {
+    margin: 0%;
+}
+
+.let-text {
+    font-size: 80px;
+    color: brown;
+}
+
+.paragarap-text {
+    font-size: 25px;
+
+}
+
+.orange-color {
+    color: green;
+    text-align: center;
+}
+
+.flexible-container {
+    text-align: center;
+    display: flex;
+    background-image: url(images/donation4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.link-button {
+    margin-bottom: 50%;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    background-color: brown;
+    padding: 25px 40px;
+    border-radius: 15px;
+    font-size: 15px;
+}
+
+
+
+
+}
