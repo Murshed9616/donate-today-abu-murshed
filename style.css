@@ -12,7 +12,6 @@ body {
     width: 100vw;
     height: 50vw;
     padding-top: 10px;
-
     color: white;
 
 
@@ -37,6 +36,7 @@ body {
 }
 
 .button-link {
+
     text-decoration: none;
     background-color: tomato;
     padding: 20px 30px;
@@ -55,69 +55,52 @@ body {
     margin-bottom: 2%;
 }
 
-
-.taka-headline {
-    width: 100px;
-    height: 100px;
-    background-color: #999;
+.alltaka-box {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(228, 222, 222);
     text-align: center;
-
+    border-radius: 10px;
 }
 
 .taka-container {
     display: flex;
     justify-content: space-evenly;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
+.taka-headline {
+    font-size: 40px;
+    margin-top: 50px;
 
+}
 
-
-
+.sceondtaka-box {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(247, 214, 208);
+    text-align: center;
+    border-radius: 10px;
+    color: tomato;
+}
 
 input {
     padding: 10px;
     width: 50%;
     outline: none;
     border: none;
-    font-size: 30px;
+    font-size: 25px;
     text-align: center;
-    border-bottom: 3px solid #999;
+    border-bottom: 3px solid rgb(148, 144, 144);
     margin-top: 5%;
     margin-bottom: 5%;
     margin-left: 25%;
     margin-right: 20%;
 }
 
-.taka-button {
-    display: flex;
-    display-flex: warp;
-    justify-content: space-around;
+.button-container {
     text-align: center;
-    font-size: 20px;
-    background-color: #999;
-}
-
-
-
-
-
-
-
-
-
-
-.donate-button {
-    text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
-    padding: 25px 40px;
-    border-radius: 15px;
-    font-size: 30px;
-    text-align: center;
-    margin-left: 42%;
-    margin-right: 0%;
-    margin-top: 5%;
-    margin-bottom: 50%;
-    color: white;
 }
 
 .experience-item {
