@@ -241,6 +241,7 @@ input {
 }
 
 .last-container {
+    width: 1750px;
     height: 220px;
     background-color: black;
 }
