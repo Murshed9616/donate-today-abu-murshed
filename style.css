@@ -241,7 +241,7 @@ input {
 }
 
 .last-container {
-    width: 1750px;
+    width: 1800px;
     height: 220px;
     background-color: black;
 }
@@ -251,11 +251,11 @@ input {
 }
 
 .last1-headline {
-    color: rgb(221, 78, 53);
+    color: rgb(204, 81, 60);
     font-size: 45px;
 }
 
 .last2-headline {
-    color: white;
+    color: rgb(241, 232, 232);
     font-size: 20px;
 }
