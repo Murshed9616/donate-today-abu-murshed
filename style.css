@@ -204,27 +204,57 @@ input {
     background-color: rgb(235, 228, 204);
     margin-left: 380px;
     margin-bottom: 150px;
+    display: flex;
 
 }
 
 .fifth-one {
-    width: 500px;
+    width: 350px;
     height: 60px;
-    background-color: gray;
-    text-align: left;
+    background-color: rgb(187, 183, 183);
+    margin-left: 230px;
+    margin-top: 80px;
+    border-radius: 5px;
+
+
+}
+
+.fifth-two {
+    width: 180px;
+    height: 60px;
+    background-color: rgb(243, 85, 58);
+    margin-top: 80px;
     border-radius: 5px;
 }
 
 .email-headline {
     font-size: 25px;
+    text-align: start;
+    margin-left: 10px;
 }
 
-.fifth-two {
-    width: 200px;
-    height: 60px;
-    background-color: tomato;
-    text-align: left;
-    border-radius: 5px;
-    margin-top: 0px;
+.sub-headline {
+    font-size: 25px;
+    text-align: start;
+    margin-left: 20px;
+    color: white;
+}
 
+.last-container {
+    height: 220px;
+    background-color: black;
+}
+
+.last-headline {
+    margin-top: 100px;
+}
+
+.last1-headline {
+    color: rgb(221, 78, 53);
+    font-size: 45px;
+}
+
+.last2-headline {
+    color: white;
+    font-size: 20px;
 }
